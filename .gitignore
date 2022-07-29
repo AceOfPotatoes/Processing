@@ -1,5 +1,5 @@
-//Ignore everything
-*
+//Ignore all kind of files
+.*
 
 //Except .pde source files
 !.pde
