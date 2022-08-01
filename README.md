@@ -1,2 +1,2 @@
 # Processing
-Some graphic stuff made with Processing
+Some graphic stuff made in Processing
